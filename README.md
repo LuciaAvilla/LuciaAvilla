@@ -38,8 +38,8 @@
 
 ## 💬 Curiosidades
 
-- 💡 Acredito que código é uma forma de arte!
-- 🐾 Mãe de pets e fã de dark mode ☕
+- 💡 Programar é esculpir criatividade com linhas de código.
+- 🐾 Mãe de pets e fã de um bom rock
 - 🌈 Quero usar a tecnologia para construir algo que tenha propósito real
 
 ---
