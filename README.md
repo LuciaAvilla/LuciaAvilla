@@ -33,7 +33,7 @@
 ## 📫 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/lucia-avilla/)  
-- [Instagram}.(https://www.instagram.com/luciaavilla/)
+- [Instagram].(https://www.instagram.com/luciaavilla/)
 ---
 
 ## 💬 Curiosidades
