@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Lucia! 👩‍💻🎨</h1>
 
 <p align="center">
-  Artista & desenvolvedora em formação, apaixonada pela construção de experiências digitais mais humanas e impactantes.  
+  Desenvolvedora em formação, apaixonada pela construção de experiências digitais mais humanas e impactantes.  
 </p>
 
 ---
