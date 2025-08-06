@@ -8,7 +8,6 @@
 
 ## ✨ Sobre mim
 
-🎓 Publicitária de formação, com experiência em audiovisual, pesquisa acadêmica e design UX & UI.  
 💻 Estudante de Desenvolvimento Full Stack, focada em HTML, CSS, acessibilidade e interfaces inclusivas.  
 🌱 Atualmente aprendendo: boas práticas em semântica, WCAG 2.1 e estrutura de código acessível.  
 🎨 Criativa, curiosa e comprometida com o propósito de tornar a web mais bonita e mais acessível pra todo mundo.
