@@ -16,11 +16,13 @@
 
 ## 🧠 Habilidades em desenvolvimento
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Acessibilidade](https://img.shields.io/badge/A11Y-000000?logo=accessibility&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+![A11Y](https://img.shields.io/badge/A11Y-Accessible-brightgreen)
+
+
 
 ---
 
